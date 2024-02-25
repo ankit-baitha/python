@@ -23,3 +23,5 @@ f=math.floor(2.4)
 g=math.floor(2.1)
 print("closet of number", f)
 print("closet of number", g)
+
+print(math.fact(5))
